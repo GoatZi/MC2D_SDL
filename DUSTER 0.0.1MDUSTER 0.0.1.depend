@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1464637032 source:c:\users\pigeo\desktop\duster\code1.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+
+1465310950 source:c:\users\pigeo\desktop\programmation\duster\code1.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<SDL_mixer.h>
+

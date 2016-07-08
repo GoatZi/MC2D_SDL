@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1467223210 source:c:\users\pigeo\desktop\programmation\duster\code1.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<SDL_mixer.h>
+	<stdlib.h>
+	"variables.h"
+
+1465737076 source:c:\users\pigeo\desktop\programmation\duster\variables.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<SDL_mixer.h>
+	<stdlib.h>
+
+1465737076 c:\users\pigeo\desktop\programmation\duster\variables.c
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<stdio.h>
+	<SDL_mixer.h>
+	<stdlib.h>
+
+1466519483 c:\users\pigeo\desktop\programmation\duster\variables.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+
+1463225380 c:\users\pigeo\desktop\programmation\duster\sdl_gpu.h
+	"SDL.h"
+	<stdio.h>
+	<stdarg.h>
+	"begin_code.h"
+	<stdbool.h>
+	"close_code.h"
+
